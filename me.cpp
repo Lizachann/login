@@ -129,6 +129,7 @@ main()
 //    cout<<"Display from tail:"<<endl;
 //    displayFromTail(MyList);
 
+    cout<<"Hello world";
 
     file.close();
 
